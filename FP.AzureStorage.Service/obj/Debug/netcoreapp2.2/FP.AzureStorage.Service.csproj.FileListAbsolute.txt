@@ -1,0 +1,10 @@
+C:\Projects\FP\FP.AzureStorage.Service\bin\Debug\netcoreapp2.2\FP.AzureStorage.Service.dll.config
+C:\Projects\FP\FP.AzureStorage.Service\bin\Debug\netcoreapp2.2\FP.AzureStorage.Service.deps.json
+C:\Projects\FP\FP.AzureStorage.Service\bin\Debug\netcoreapp2.2\FP.AzureStorage.Service.dll
+C:\Projects\FP\FP.AzureStorage.Service\bin\Debug\netcoreapp2.2\FP.AzureStorage.Service.pdb
+C:\Projects\FP\FP.AzureStorage.Service\obj\Debug\netcoreapp2.2\FP.AzureStorage.Service.csproj.CoreCompileInputs.cache
+C:\Projects\FP\FP.AzureStorage.Service\obj\Debug\netcoreapp2.2\FP.AzureStorage.Service.AssemblyInfoInputs.cache
+C:\Projects\FP\FP.AzureStorage.Service\obj\Debug\netcoreapp2.2\FP.AzureStorage.Service.AssemblyInfo.cs
+C:\Projects\FP\FP.AzureStorage.Service\obj\Debug\netcoreapp2.2\FP.AzureStorage.Service.dll
+C:\Projects\FP\FP.AzureStorage.Service\obj\Debug\netcoreapp2.2\FP.AzureStorage.Service.pdb
+C:\Projects\FP\FP.AzureStorage.Service\obj\Debug\netcoreapp2.2\FP.AzureStorage.Service.csprojAssemblyReference.cache

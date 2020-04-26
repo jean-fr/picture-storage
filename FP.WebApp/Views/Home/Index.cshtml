@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+
+    <form id="upload-image-form" method="post">
+
+        <div class="form-group">
+            <label for="title">Title :</label>
+            <input type="text" class="form-control" name="Title" id="title">
+        </div>
+        <div class="form-group">
+            <label for="file">Choose an image :</label>
+            <input type="file" class="form-control" name="Image" id="image" accept=".png,.jpg,.jpeg,.gif">
+        </div>
+
+        <button type="button" id="upload-file-btn" class="btn btn-primary">Upload</button>
+    </form>
+
+    <div id="image-list">
+
+
+    </div>
+
+
+</div>
+
+
